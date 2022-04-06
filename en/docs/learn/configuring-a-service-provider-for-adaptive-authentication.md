@@ -74,7 +74,7 @@ adaptive authentication using a sample application.
         3.  Enter `               test              ` as the **Service
             Provider Name** and click **Register.**  
             ![Register New Service Provider](../assets/img/tutorials/add-new-sp-1.png)
-        4.  Expand the **Local and Outbound Configuration** section.  
+        4.  Expand the **Local and Outbound Authentication Configuration** section.  
             The following authenticators should be available in the
             local authenticators list.
 
@@ -118,7 +118,7 @@ application by setting up inbound authentication.
     [Adding and Configuring a Service
     Provider](../../learn/adding-and-configuring-a-service-provider).
 
-2.  Expand the **Inbound Authentication configuration&gt; SAML2 Web SSO
+2.  Expand the **Inbound Authentication Configuration&gt; SAML2 Web SSO
     configuration** section, and click **Configure**.  
     ![Configure a Service Provider](../assets/img/tutorials/configure-saml-sso.png)
 3.  Fill in the following fields.  
